@@ -298,7 +298,8 @@ header fields are REQUIRED::
 
 The following additional header fields are OPTIONAL::
 
-  Discussions-To:
+  Credits:
+  Discussions-To:
   Network Upgrade:
   Obsoleted by:
   Updated by:
